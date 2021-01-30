@@ -1,0 +1,19 @@
+{
+  "name": "bblash",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.12.5",
+    "boxicons": "^2.0.7",
+    "core-js": "^3.8.2",
+    "nuxt": "^2.14.12",
+    "v-owl-carousel": "^1.0.8"
+  },
+  "devDependencies": {}
+}
