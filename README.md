@@ -1,5 +1,11 @@
 # bblash
 
+it's a responsive Nuxt template made with ♥ and Vuejs 
+
+## Production Link to view
+
+http://www.aflam-bblash.tk/
+
 ## Build Setup
 
 ```bash
